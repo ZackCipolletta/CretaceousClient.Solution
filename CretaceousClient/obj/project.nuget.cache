@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvNqThh4KkRhcFMXSOahjcHgnZmpcu9/VdoUP2h6is95tDBAm+3IcNU2GTQS5ku9U4Q/aY1Zl17S2ZZDD6oNgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZackC\\OneDrive\\Desktop\\Epicodus-projects\\CretaceousClient.Solution\\CretaceousClient\\CretaceousClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZackC\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
